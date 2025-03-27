@@ -4,7 +4,9 @@
 本專案旨在開發一個基於 Telegram 平台的暗棋遊戲 Bot，讓使用者能夠透過與 Bot 的互動，在 Telegram 上進行暗棋遊戲。電腦將作為對手，與玩家進行對弈。  
 點此看[規格細節](https://hackmd.io/@vincentinttsh/BJg3g4w4p)。
 成果截圖：  
-![image](./src/121328.jpg)
+<p align="center">
+  <img src="./src/121328.jpg" alt="" width="30%"/>
+</p>
 
 ## 🎯 功能特點
 - **啟動新遊戲**：使用者可透過指令開始一場新的暗棋遊戲。
